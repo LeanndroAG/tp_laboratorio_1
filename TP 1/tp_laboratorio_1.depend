@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1536048002 source:c:\users\leandro-fabi\desktop\programacion i\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1536047929 c:\users\leandro-fabi\desktop\programacion i\tp_laboratorio_1\funciones.h
+
+1536047667 source:c:\users\leandro-fabi\desktop\programacion i\tp_laboratorio_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1536047667 source:c:\users\leandro-fabi\desktop\tp_laboratorio_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1536049699 source:c:\users\leandro-fabi\desktop\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1536047929 c:\users\leandro-fabi\desktop\tp_laboratorio_1\funciones.h
+
+1536133496 source:c:\users\leandro-fabi\desktop\tp 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1536131849 c:\users\leandro-fabi\desktop\tp 1\funciones.h
+
+1536133238 source:c:\users\leandro-fabi\desktop\tp 1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1567763320 source:c:\users\leandro-fabi\desktop\programacion 2019\tp_laboratorio_1-master\tp_laboratorio_1-master\tp 1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1567763142 source:c:\users\leandro-fabi\desktop\programacion 2019\tp_laboratorio_1-master\tp_laboratorio_1-master\tp 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1542753752 c:\users\leandro-fabi\desktop\programacion 2019\tp_laboratorio_1-master\tp_laboratorio_1-master\tp 1\funciones.h
+
