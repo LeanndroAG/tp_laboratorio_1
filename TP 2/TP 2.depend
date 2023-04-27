@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1536896482 source:c:\users\leandro-fabi\desktop\tp's\tp's 2do cuatri\tp 2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1536896482 .h"
+
+1538295091 source:c:\users\leandro-fabi\desktop\tp's\tp's 2do cuatri\tp 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"utn.h"
+	"ArrayEmployees.h"
+
+1538292598 oyees.h"
+
+1536894944 c:\users\leandro-fabi\desktop\tp's\tp's 2do cuatri\tp 2\funciones.h
+
+1538293512 source:c:\users\leandro-fabi\desktop\tp's\tp's 2do cuatri\tp 2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"utn.h"
+
+1538035088 c:\users\leandro-fabi\desktop\tp's\tp's 2do cuatri\tp 2\arrayemployees.h
+
+1538292598 source:c:\users\leandro-fabi\desktop\tp's\tp's 2do cuatri\tp 2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"ArrayEmployees.h"
+	"utn.h"
+
+1538283140 c:\users\leandro-fabi\desktop\tp's\tp's 2do cuatri\tp 2\utn.h
+
+1570225570 source:/home/leandro/Documentos/Programacion/tp_laboratorio_1-master/TP 2/ArrayEmployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"utn.h"
+
+1570093029 /home/leandro/Documentos/Programacion/tp_laboratorio_1-master/TP 2/ArrayEmployees.h
+
+1542753752 /home/leandro/Documentos/Programacion/tp_laboratorio_1-master/TP 2/utn.h
+
+1570225051 source:/home/leandro/Documentos/Programacion/tp_laboratorio_1-master/TP 2/main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"ArrayEmployees.h"
+	"controller.h"
+
+1570091938 source:/home/leandro/Documentos/Programacion/tp_laboratorio_1-master/TP 2/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"utn.h"
+
+1570090687 /home/leandro/Documentos/Programacion/tp_laboratorio_1-master/TP 2/controller.h
+	"ArrayEmployees.h"
+	"utn.h"
+
+1570225230 source:/home/leandro/Documentos/Programacion/tp_laboratorio_1-master/TP 2/controller.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"ArrayEmployees.h"
+
